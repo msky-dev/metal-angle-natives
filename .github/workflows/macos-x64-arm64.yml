@@ -1,4 +1,4 @@
-name: macos-metal
+name: macos-x64-arm64
 
 on:
   workflow_dispatch:
